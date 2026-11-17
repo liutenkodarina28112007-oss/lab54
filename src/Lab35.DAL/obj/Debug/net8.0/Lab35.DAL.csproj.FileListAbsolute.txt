@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\bin\Debug\net8.0\Lab35.DAL.deps.json
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\bin\Debug\net8.0\Lab35.DAL.dll
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\bin\Debug\net8.0\Lab35.DAL.pdb
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\bin\Debug\net8.0\Lab35.Domain.dll
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\bin\Debug\net8.0\Lab35.Domain.pdb
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.AssemblyInfo.cs
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.csproj.Up2Date
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.dll
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\refint\Lab35.DAL.dll
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\Lab35.DAL.pdb
+C:\Users\Asus\Downloads\lab35_variant3\lab35_variant3\src\Lab35.DAL\obj\Debug\net8.0\ref\Lab35.DAL.dll
